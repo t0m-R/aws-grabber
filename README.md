@@ -1,5 +1,6 @@
 # aws-grabber
-Python Script to grab the AWS Educate credentials so students can use aws-cli v1.
+Python Script to grab the AWS Educate credentials so students can use aws-cli.  
+Works on linux and macOS, Windows version under development.
 
 ## About
 This command will update the configuration files of `aws-cli` with new credentials.  
